@@ -2,8 +2,13 @@
 name = "git-forge"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Scott Stevenson <scott@stevenson.io>"]
+description = "Open the forge for each remote of a Git repository in your browser"
+homepage = "https://github.com/srstevenson/git-forge"
+repository = "https://github.com/srstevenson/git-forge"
+license = "MIT"
+keywords = ["git"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 git2 = { version = "0.17.2", features = [] }
