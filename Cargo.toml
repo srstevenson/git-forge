@@ -12,4 +12,4 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 git2 = { version = "0.17.2", features = [] }
-webbrowser = "0.8.10"
+webbrowser = "0.8.11"
