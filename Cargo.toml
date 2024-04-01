@@ -11,5 +11,5 @@ keywords = ["git"]
 categories = ["command-line-utilities"]
 
 [dependencies]
-git2 = { version = "0.18.2", features = [] }
+git2 = { version = "0.18.3", features = [] }
 webbrowser = "0.8.13"
